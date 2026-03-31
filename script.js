@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <p class="text-center mt-4" style="font-size: 12px; color: var(--text-subtle);">
                     ID de Validación: <strong>${id}</strong>
                 </p>
-                <a href="https://cpcemza.org.ar/capacitacion" target="_blank" class="btn btn--primary btn--full mt-4">Ver oferta de capacitaciones</a>
+                <a href="https://cpcemza.org.ar/capacitaciones.php" target="_blank" class="btn btn--primary btn--full mt-4">Ver oferta de capacitaciones</a>
             </section>
         `;
         resultadoContainer.style.display = 'block';
