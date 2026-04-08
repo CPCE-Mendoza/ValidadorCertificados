@@ -3,7 +3,7 @@
 // ==========================================
 
 
-const URL_API_GOOGLE = 'https://script.google.com/macros/s/AKfycbzNHZyqpHI5j1ltNiy3bpOYqLB-hYHy5nVqNwMu1FW5WmiOJZmpYieD69CY9FlcsIza/exec';
+const URL_API_GOOGLE = 'https://script.google.com/macros/s/AKfycbyMDcN5PnIQKLGOQimQgIgjGLdlpJNkbzYEDJdkJ9CKhRUNaZ3akGn4z6hbATZDtUef/exec';
 
 document.addEventListener("DOMContentLoaded", () => {
     // 1. Obtener el ID de la URL (Ej: cpcemendoza.org/validar?id=A1B2C3D4)
